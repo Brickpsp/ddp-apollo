@@ -7,10 +7,10 @@ var packages = [
 ];
 
 Package.describe({
-  name: 'swydo:ddp-apollo',
+  name: 'tawa:ddp-apollo',
   version: '1.4.0-beta.3',
   summary: 'DDP link and server for Apollo',
-  git: 'https://github.com/swydo/ddp-apollo',
+  git: 'https://github.com/Brickpsp/ddp-apollo',
   documentation: 'README.md',
 });
 
